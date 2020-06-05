@@ -1,0 +1,27 @@
+*{
+    font-size: 13px;
+}
+.container{
+    min-width: 1200px;
+}
+.logos
+{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    box-shadow: 1px 1px 2px rgb(202, 202, 202);
+    padding-bottom:20px;
+    
+    
+}
+h3{
+    padding-top: 150px;
+    text-align: center;
+}
+div button{
+    border: none;
+    padding:10px 40px;
+    border-radius: 20px;
+    color:#ffffff;
+    background-color:blueviolet;
+}
